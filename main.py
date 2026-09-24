@@ -10,3 +10,5 @@ if i > 10:
     print("i é maior que 10")
 else:
     print("i não é maior que 10")
+
+print("master")
